@@ -2,15 +2,51 @@
   "urls": [
     {
       "name": "非凡小小-星TV+",
-      "url": "https://gitdl.cn/https://raw.githubusercontent.com/jigedos/1024/master/jsm.json"
+      "url": "https://g.3344550.xyz/https://raw.githubusercontent.com/jigedos/1024/master/jsm.json"
     },
     {
       "name": "非凡小小-坚果",
       "url": "http://23.224.143.163:1000/app/svip241011.json"
     },
     {
-      "name": "无闻",
-      "url": "https://codeberg.org/yyhh/yyhg/raw/branch/master/yyhn.json"
+      "name": "小橙子",
+      "url": "https://git.acwing.com/xcz/xcz/-/raw/master/xcz.json"
+    },
+    {
+      "name": "驸马",
+      "url": "http://fmys.top/fmys.json"
+    },
+    {
+      "url": "https://git.acwing.com/ocean2025/ocean/-/raw/main/api.json",
+      "name": "大海"
+    },
+    {
+      "name": "秦始皇 ",
+      "url": "https://秦始皇.xyz"
+    },
+    {
+      "name": "盒子迷4K",
+      "url": "https://盒子迷.top/4k"
+    },
+    {
+      "name": "平安",
+      "url": "https://git.acwing.com/cnlv/tv/-/raw/main/stronger.json"
+    },
+    {
+      "name": "Ray",
+      "url": "https://100km.top/0"
+    },
+    {
+      "url": "https://gitlab.com/duomv/dzhipy/-/raw/main/index.json",
+      "name": "道长"
+    },
+    {
+      "name": "Fongmi ",
+      "url": "http://ok321.top/ok"
+    },
+    {
+      "name": "少儿线路",
+      "url": "https://jihulab.com/ymz1231/xymz/-/raw/main/ymshaoer"
     },
     {
       "name": "王二小",
@@ -33,10 +69,6 @@
       "url": "http://meowtv.cn/tv"
     },
     {
-      "name": "摸鱼儿",
-      "url": "http://我不是.摸鱼儿.com"
-    },
-    {
       "name": "蓝天白云 ",
       "url": "https://gitee.com/ltby1/vip/raw/master/蓝天白云.json"
     },
@@ -47,26 +79,6 @@
     {
       "name": "4K线路",
       "url": "https://jihulab.com/ss3234741/sj/-/raw/main/4K.json?ref_type=heads"
-    },
-    {
-      "name": "运输车",
-      "url": "https://weixine.net/ysc.json"
-    },
-    {
-      "name": "影视仓",
-      "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json"
-    },
-    {
-      "name": "月光宝盒",
-      "url": "https://g.3344550.xyz/https://raw.githubusercontent.com/guot55/YGBH/main/pro.json"
-    },
-    {
-      "name": "契斯特",
-      "url": "https://qist.tycng.com/jsm.json"
-    },
-    {
-      "name": "小武哥",
-      "url": "https://g.3344550.xyz/https://raw.githubusercontent.com/wwb521/live/main/movies.json"
     },
     {
       "name": "茄子影视",
@@ -105,20 +117,8 @@
       "url": "https://6492.kstore.space/xnf/xnf.json"
     },
     {
-      "name": "拾光📚",
-      "url": "http://www.饭太硬.com/tv/"
-    },
-    {
       "name": "菜妮丝",
       "url": "https://tv.xn--yhqu5zs87a.top"
-    },
-    {
-      "name": "D佬大",
-      "url": "https://download.kstore.space/download/2883/nzk/nzk0722.json"
-    },
-    {
-      "name": "一十锦",
-      "url": "http://jin.锦哥哥.love"
     },
     {
       "name": "动漫城",
@@ -127,14 +127,6 @@
     {
       "name": "喵影视",
       "url": "http://meowtv.cn/tv"
-    },
-    {
-      "name": "小米",
-      "url": "http://www.mpanso.com/小米/DEMO.json"
-    },
-    {
-      "name": "恒星",
-      "url": "http://yuhuahx.com/育华学堂/斧头帮.php"
     },
     {
       "name": "欧歌",
@@ -147,10 +139,6 @@
     {
       "name": "短剧",
       "url": "http://74.120.175.78/JK/XYQTVBox/dj.json"
-    },
-    {
-      "name": "南风",
-      "url": "https://gitdl.cn/https://raw.githubusercontent.com/yoursmile66/TVBox/main/XC.json"
     },
     {
       "name": "开心",
@@ -186,19 +174,7 @@
     },
     {
       "name": "各种网盘",
-      "url": "https://gitdl.cn/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json"
-    },
-    {
-      "name": "PizazzGY",
-      "url": "https://github.moeyy.xyz/https://github.com/PizazzGY/TVBox/blob/main/api.json"
-    },
-    {
-      "name": "PiGY备用",
-      "url": "https://raw.gitmirror.com/PizazzGY/TVBox/main/api.json"
-    },
-    {
-      "name": "影视备用",
-      "url": "https://d.kstore.space/download/6474/tvbox/api.json"
+      "url": "https://g.3344550.xyz/https://raw.githubusercontent.com/leevi0709/one/main/jsm.json"
     },
     {
       "name": "欧歌网盘",
@@ -207,10 +183,6 @@
     {
       "name": "欧歌儿童",
       "url": "https://xn--2qg-mf3g9f.v.nxog.top/m/111.php?ou=公众号欧歌app&mz=a3&jar=a3&b=欧歌2qg"
-    },
-    {
-      "name": "请勿贩卖",
-      "url": "http://tvkj.top/QXZJ/svip.json"
     }
   ]
 }
