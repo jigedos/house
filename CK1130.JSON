@@ -2,9 +2,12 @@
   "storeHouse": [
     {
       "sourceName": "🍵非凡仓库",
-      "sourceUrl": "https://g.3344550.xyz/https://raw.githubusercontent.com/jigedos/house/main/fx1028.jsonon"
+      "sourceUrl": "https://g.3344550.xyz/https://raw.githubusercontent.com/jigedos/house/main/fx1028.json"
     },
-
+    {
+      "sourceName": "🍵非凡仓库2",
+      "sourceUrl": "http://23.224.143.163:1000/app/dc2.json"
+    },
 
     {
       "sourceName": "①🍱挺好分享多仓库",
